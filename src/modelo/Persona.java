@@ -41,7 +41,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return " Esta persona se llama " + getNombre() + " " + getApellido1() + " " + getApellido2();
+        return "Esta persona se llama " + getNombre() + " " + getApellido1() + " " + getApellido2();
     }
 
 
